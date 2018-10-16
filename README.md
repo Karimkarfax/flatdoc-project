@@ -14,7 +14,7 @@ Nun neben mindesten einen Spieler braucht man einen Spieler, der die Rolle des "
 Für eine Gruppe von neuen Spielern würde ich das DnD Starterset empfehlen. Es enthält alles was man bracht, sowie ein geschriebenes Abenteuer, dass für einige Sessions aushalten dürfte.
 Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist braucht man nur ein paar Sachen um anzufangen.
 
-* Würfelset bestehend aus:
+1. Würfelset bestehend aus:
 
 ..- einem 20-seitigen Würfel ("d20")
 
