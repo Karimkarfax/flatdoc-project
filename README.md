@@ -27,6 +27,15 @@ Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist brauch
 2. Blatt Papier mit Bleistifft und Radiergummi
 
 ##Now that I have your attention
+
+Dinge und Sachen mit Liste
+
+* Sommer
+* Sonne
+* Eis
+* Sonne
+
+
 ###May I direct your gaze
 ####Down here?
 ``` html
