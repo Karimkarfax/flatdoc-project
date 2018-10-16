@@ -7,7 +7,6 @@ Im Grunde ist es ein gemeinschaftliches Erzählen einer Geschichte unterstützt 
 
 >![alt text](https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png "Logo Title Text 1")
 
-m
 ##Thats what I thought b****
 So listen up and listen closely. Because Ima goning to tell ya how to get *filthy rich* no joke
 **filthy rich**.
