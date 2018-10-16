@@ -75,3 +75,8 @@ Der erste Schritt ist immer schwer, doch wenn mal ertmal angefangen hat, kann ma
 >"Seht ihr Waschlappen. Das passiert mit euch allen, wenn ihr euch nicht ergebt."
 >
 >"Die Banditen werfen ihre Waffen zu Boden und laufen davon."
+
+##Und wie gehts weiter?
+
+Jetzt musst du nur noch ein paar Freunde zusammentrommeln und loslegen.
+Das die gratis Regeln gibts [hier](http://dnd.wizards.com/articles/features/basicrules), das Starterset [hier](https://www.amazon.de/Dungeons-Dragons-Einsteigerset-Christopher-Perkins/dp/194562566X/ref=sr_1_2?ie=UTF8&qid=1539696118&sr=8-2&keywords=d%26d+starter+set) und wenn ihr das ganze mal in Aktion sehn wollt, empfehle ich [Critical Roll](https://geekandsundry.com/shows/critical-role/) einer der besten DnD Podcasts.
