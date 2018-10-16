@@ -15,15 +15,15 @@ Für eine Gruppe von neuen Spielern würde ich das DnD Starterset empfehlen. Es 
 Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist braucht man nur ein paar Sachen um anzufangen.
 
 1. Würfelset bestehend aus:
-..1. einem 20-seitigen Würfel ("d20")
-..2. einem 12-seitigen Würfel ("d12")
-..3. zwei unterschiedliche 10-seitige Würfel ("d10/d100")
+··+ einem 20-seitigen Würfel ("d20")
+··+ einem 12-seitigen Würfel ("d12")
+··+ zwei unterschiedliche 10-seitige Würfel ("d10/d100")
 
-+ einem 8-seitigen Würfel ("d8")
+··+ einem 8-seitigen Würfel ("d8")
 
-+ einem 6-seitigen Würfel ("d6")
+··+ einem 6-seitigen Würfel ("d6")
 
-+ einem 4-seitigen Würfel ("d4")
+··+ einem 4-seitigen Würfel ("d4")
 
 ##Now that I have your attention
 ###May I direct your gaze
