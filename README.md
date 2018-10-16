@@ -3,7 +3,9 @@ Als ich angefangen habe DnD zu spielen, hatte ich viele Fragen und viele davon s
 ##Was ist DnD?
 Also was ist DnD überhaupt? Ich rede hierbei von 5e, der fünften Edition und der neuesten Iteration des Tabletop-Rollenspiels Dungeons and Dragons.
 
+
 Ich konnnte mir früher auch nicht genau etwas darunter vorstellen, allerdings ist es eigentlich ganz einfach.
+
 
 Im Grunde ist es ein gemeinschaftliches Erzählen einer Geschichte unterstützt von simplen Regeln und Würfeln, um das Element des Zufalls hunzuzufügen.
 ##Thats what I thought b****
