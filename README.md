@@ -19,7 +19,6 @@ Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist brauch
 
 1. Würfelset bestehend aus:
 
-
   + einem 20-seitigen Würfel ("d20")
   + einem 12-seitigen Würfel ("d12")
   + zwei unterschiedliche 10-seitige Würfel ("d10/d100")
