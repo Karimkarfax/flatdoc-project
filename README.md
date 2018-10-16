@@ -19,12 +19,12 @@ Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist brauch
 
 1. Würfelset bestehend aus:
 
-  + einem 20-seitigen Würfel ("d20")
-  + einem 12-seitigen Würfel ("d12")
-  + zwei unterschiedliche 10-seitige Würfel ("d10/d100")
-  + einem 8-seitigen Würfel ("d8")
-  + einem 6-seitigen Würfel ("d6")
-  + einem 4-seitigen Würfel ("d4")
+  1. einem 20-seitigen Würfel ("d20")
+  2. einem 12-seitigen Würfel ("d12")
+  3. zwei unterschiedliche 10-seitige Würfel ("d10/d100")
+  4. einem 8-seitigen Würfel ("d8")
+  5. einem 6-seitigen Würfel ("d6")
+  6. einem 4-seitigen Würfel ("d4")
 
 2. Blatt Papier mit Bleistifft und Radiergummi
 
