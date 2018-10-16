@@ -32,11 +32,11 @@ Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist brauch
 Und das war's auch schon. Man kann zwar noch einiges an Ressourcen besorgen, aber notwendig ist nichts davon wirklich.
 
 >"OK, ich suche nach Fallen im Korridor vor uns." - Spieler
-
+>
 >"Dann wirf einen d20." - DM
-
+>
 >"Ist das der hier?" - Spieler
-
+>
 >"Nein das ist ein d12, der große hier." DM
 
 ##Aber wie spielt man jetzt nun.
