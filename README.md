@@ -51,6 +51,9 @@ Der wiederum sagt den Spielern, ob und was sie würfeln müssen, damit ihr Plan 
 Dann beschreibt der DM die Situation, die daraus entstanden ist und das Ganze geht von vorne los.
 
 >"Wegen dem missglückten Entschärfungsversuch wurde der Alarm ausgelöst und 5 Banditen mit einem Hobgoblin als Anführer stürmen auf euch zu." - DM
+>"Tim nimmt ein Fass und wirft es auf die Banditen. Dann ziehen wir unsere Waffen und greifen an." - Spieler
+>"Wirf einen Athletics check, das ist ein d20 + dein Athletics modifier. Hier auf deinem Blatt." - DM
+
 
 
 ##Hier beginnt der Spaß
