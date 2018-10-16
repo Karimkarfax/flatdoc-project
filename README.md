@@ -19,11 +19,11 @@ Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist brauch
 ..2. einem 12-seitigen Würfel ("d12")
 ..3. zwei unterschiedliche 10-seitige Würfel ("d10/d100")
 
-..- einem 8-seitigen Würfel ("d8")
++ einem 8-seitigen Würfel ("d8")
 
-..- einem 6-seitigen Würfel ("d6")
++ einem 6-seitigen Würfel ("d6")
 
-..- einem 4-seitigen Würfel ("d4")
++ einem 4-seitigen Würfel ("d4")
 
 ##Now that I have your attention
 ###May I direct your gaze
