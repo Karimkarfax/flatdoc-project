@@ -14,7 +14,9 @@ Alles was man braucht ist ein kleines bisschen *Fantasie* und ein paar andere Kl
 ##Was braucht man zum Spielen?
 
 Nun neben mindesten einen Spieler braucht man einen Spieler, der die Rolle des "Erzählers" übernimmt und dafür sorgt, dass die Regeln eingehalten werden, der sogenannte "Dungeon Master" oder DM.
+
 Für eine Gruppe von neuen Spielern würde ich das DnD Starterset empfehlen. Es enthält alles was man bracht, sowie ein geschriebenes Abenteuer, dass für einige Sessions aushalten dürfte.
+
 Wenn das nicht nach deinem Geschmack ist oder der DM bereits erfahren ist braucht man nur ein paar Sachen um anzufangen.
 
 1. Würfelset bestehend aus:
@@ -41,17 +43,25 @@ Und das war's auch schon. Man kann zwar noch einiges an Ressourcen besorgen, abe
 
 ##Aber wie spielt man jetzt nun.
 
+Das Szenario ist in der Regel immer gleich. 
+
+Der DM beschreibt die Situation, in der sich die Spieler gerade befinden. 
+Die Spieler entscheiden was sie machen wollen und teilen es dem DM mit.
+Der wiederum sagt den Spielern, ob und was sie würfeln müssen, damit ihr Plan funktioniert.
+Dann beschreibt der DM die Situation, die daraus entstanden ist und das Ganze geht von vorne los.
+
+"Wegen dem missglückten Entschärfungsversuch wurde der Alarm ausgelöst und 5 Banditen mit einem Hobgoblin als Anführer stürmen auf euch >zu." - DM
 
 
-Dinge und Sachen mit Liste
+##Hier beginnt der Spaß
 
-* Sommer
-* Sonne
-* Eis
-* Sonne
+Das ist jetzt natürlich nur das absolute, mechanische Minimum, das zum Spielen benötigt wird.
+Das Herz und die Seele einer jeden guten DnD-Session, ist das Rollenspiel zwischen den Spielern und zwischen den Spielern und den Charaktern, die der DM spielt.
+Während natürlich Kampf und Rätsel lösen einen wichtigen Bestandteil ausmachen und diese auf ihre eigene Weise spannen sind, beginnt der Spaß für mich erst, wenn die Spieler anfangen als ihre Charaktere zu denken und zu handeln.
+Daraus entstehen Geschichten, die über Jahre noch Lacher und Tränen hervorrufen können.
+Der erste Schritt ist immer schwer, doch wenn mal ertmal angefangen hat, kann man kaum mehr aufhören.
 
-
-###May I direct your gaze
+>"Ich schnapp mir den
 ####Down here?
 ``` html
 <strong>Hola, mundo</strong>
