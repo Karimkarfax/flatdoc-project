@@ -50,7 +50,7 @@ Die Spieler entscheiden was sie machen wollen und teilen es dem DM mit.
 Der wiederum sagt den Spielern, ob und was sie würfeln müssen, damit ihr Plan funktioniert.
 Dann beschreibt der DM die Situation, die daraus entstanden ist und das Ganze geht von vorne los.
 
-"Wegen dem missglückten Entschärfungsversuch wurde der Alarm ausgelöst und 5 Banditen mit einem Hobgoblin als Anführer stürmen auf euch >zu." - DM
+>"Wegen dem missglückten Entschärfungsversuch wurde der Alarm ausgelöst und 5 Banditen mit einem Hobgoblin als Anführer stürmen auf euch zu." - DM
 
 
 ##Hier beginnt der Spaß
