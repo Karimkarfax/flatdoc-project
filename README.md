@@ -66,9 +66,12 @@ Während natürlich Kampf und Rätsel lösen einen wichtigen Bestandteil ausmach
 Daraus entstehen Geschichten, die über Jahre noch Lacher und Tränen hervorrufen können.
 Der erste Schritt ist immer schwer, doch wenn mal ertmal angefangen hat, kann man kaum mehr aufhören.
 
->"Ich schnapp mir den
-####Down here?
-``` html
-<strong>Hola, mundo</strong>
-```
-That is all.
+>"Ihr seit ziemlich verletzt und bis jetzt ist noch keiner der Banditen KO gegangen. Was macht ihr?" -DM
+>
+>"Grog nimmt seine Axt, läuft auf den Anführer zu und versucht ihm den Schädel einzuschlagen." - Spieler
+>
+>"Mach einen Angriff." - "Treffer." - "Wirf Schaden." - "20." - "Der Anführer geht zu Boden."
+>
+>"Seht ihr Waschlappen. Das passiert mit euch allen, wenn ihr euch nicht ergebt."
+>
+>"Die Banditen werfen ihre Waffen zu Boden und laufen davon."
