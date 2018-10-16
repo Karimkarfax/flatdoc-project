@@ -7,7 +7,7 @@ Im Grunde ist es ein gemeinschaftliches Erzählen einer Geschichte unterstützt 
 Das klingt ja auf den ersten Blick nicht besonders kompliziert - und das ist es auch nicht.
 Alles was man braucht ist ein kleines bisschen *Fantasie* und ein paar andere Kleinigkeiten.
 
->![alt text](https://www.logolynx.com/images/logolynx/2e/2eb286b947751f5986ad9ffeb983880e.png "Logo Title Text 1")
+>![alt text](https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png "Logo Title Text 1")
 
 ##Thats what I thought b****
 So listen up and listen closely. Because Ima goning to tell ya how to get *filthy rich* no joke
